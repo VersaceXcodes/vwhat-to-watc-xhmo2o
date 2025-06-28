@@ -1,0 +1,12 @@
+{
+  "name": "vwhat-to-watc-xhmo2o",
+  "version": "1.0.0",
+  "description": "Generated project for vwhat-to-watc-xhmo2o",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
